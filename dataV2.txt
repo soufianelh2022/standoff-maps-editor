@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"The Standoff Maps Editor is a powerful and user-friendly tool designed to facilitate the creation, modification, and customization of standoff maps for tactical multiplayer video games","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title2 ser","desc":"The editor allows users to design the layout of the standoff map. Users can drag and drop terrain elements, buildings, obstacles, and pathways onto the canvas","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title3 ser","desc":"Users can manipulate terrain elevation, texture, and materials to create a variety of landscapes that influence gameplay dynamics","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title4 ser","desc":"Different terrains can provide cover, vantage points, and chokepoints, adding depth to tactical decision-making.","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title5 ser","desc":"The editor enables precise placement of objects such as walls, barriers, crates, and other interactive elements","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title6 ser","desc":"This feature lets designers strategically shape the map to influence gameplay flow and create strategic opportunities for players.","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title7 ser","desc":"Users can design pathways and routes for players to traverse. This includes both ground pathways and elevated routes, each offering distinct advantages and disadvantages for players.","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
+  {"title":"title8 ser","desc":"The editor allows designers to define team spawn points and individual player spawn points. ","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
    ]
  
 }
